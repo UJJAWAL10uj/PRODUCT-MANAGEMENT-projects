@@ -4717,5 +4717,159 @@
     "company": "Various",
     "createdAt": "2026-02-06T09:19:49.075Z",
     "access": "free"
+  },
+  {
+    "id": "cs-1784804937332-mshsl9t",
+    "slug": "who8217s-afraid-of-chinese-models",
+    "title": "Who&#8217;s Afraid of Chinese Models?",
+    "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+    "category": "platform-strategy",
+    "tags": [
+      "\\$\\d+.*revenue",
+      "strategy",
+      "aggregation",
+      "platform",
+      "business model"
+    ],
+    "description": "Everyone is worried about Chinese models, but the frontier labs will be fine; we need to enable open U.S. alternatives.",
+    "datePublished": "2026-07-20",
+    "source": "Stratechery",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:57.332Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804937668-om89uzy",
+    "slug": "the-satya-nadella-playbook",
+    "title": "The Satya Nadella Playbook",
+    "url": "https://www.generalist.com/p/satya-nadella",
+    "category": "platform-strategy",
+    "tags": [
+      "how .* built",
+      "\\$\\d+.*revenue",
+      "company"
+    ],
+    "description": "The ruthless realpolitik of Microsoft&#8217;s &#8220;re-founder.&#8221;",
+    "datePublished": "2026-03-26",
+    "source": "The Generalist",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:57.668Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804938392-75w15lx",
+    "slug": "the-hidden-tax-on-every-product-decision",
+    "title": "The Hidden Tax on Every Product Decision",
+    "url": "https://www.productcoalition.com/p/the-fine-print-that-cost-a-fortune",
+    "category": "product-launch",
+    "tags": [
+      "how .* built",
+      "\\$\\d+.*revenue",
+      "product"
+    ],
+    "description": "Every Product Team Knows the Cost of Building. Almost None Know the Cost of Getting It Wrong.",
+    "datePublished": "2026-06-25",
+    "source": "Product Coalition",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:58.392Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804937446-xfkk6pd",
+    "slug": "weekly-dose-of-optimism-192",
+    "title": "Weekly Dose of Optimism #192",
+    "url": "https://www.notboring.co/p/weekly-dose-of-optimism-192",
+    "category": "platform-strategy",
+    "tags": [
+      "how .* built",
+      "company",
+      "business"
+    ],
+    "description": "UFO Disclosure, GENE-26.5, Neuralink Brain Surgeon Robot, Magnesium, Aalo DSA, GDM x EVE + Extra Doses",
+    "datePublished": "2026-05-08",
+    "source": "Not Boring",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:57.447Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804937664-eu95kbj",
+    "slug": "introducing-generalist-intelligence",
+    "title": "Introducing Generalist Intelligence",
+    "url": "https://www.generalist.com/p/introducing-generalist-intelligence",
+    "category": "platform-strategy",
+    "tags": [
+      "\\$\\d+.*revenue",
+      "company",
+      "analysis"
+    ],
+    "description": "Generalist Intelligence is a weekly intelligence briefing designed for tech&#8217;s most discerning professionals. It will arrive Friday mornings. Our hope is that it opens you up to perspectives you hadn&#8217;t considered and offers a look at fresh pockets of the future you might have missed.",
+    "datePublished": "2026-06-12",
+    "source": "The Generalist",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:57.664Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804938394-pagia1t",
+    "slug": "the-success-that-killed-success-product-cannibalization",
+    "title": "The Success That Killed Success: Product Cannibalization",
+    "url": "https://www.productcoalition.com/p/the-success-that-killed-success-product",
+    "category": "product-launch",
+    "tags": [
+      "how .* built",
+      "product",
+      "growth"
+    ],
+    "description": "Why the smartest product teams kill their own cash cows before someone else does",
+    "datePublished": "2026-06-08",
+    "source": "Product Coalition",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:58.394Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804938398-3kof7mk",
+    "slug": "i-killed-our-blog-and-built-a-lab",
+    "title": "I Killed Our Blog and Built a Lab",
+    "url": "https://www.productcoalition.com/p/i-killed-our-blog-and-built-a-lab",
+    "category": "product-launch",
+    "tags": [
+      "how .* built",
+      "product",
+      "retention"
+    ],
+    "description": "A solo founder's story of building ExecReps.ai",
+    "datePublished": "2026-05-10",
+    "source": "Product Coalition",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:58.398Z",
+    "access": "free"
+  },
+  {
+    "id": "cs-1784804938399-birhv9d",
+    "slug": "prioritization-frameworks-are-just-opinion-laundering",
+    "title": "Prioritization frameworks are just opinion laundering",
+    "url": "https://www.productcoalition.com/p/100-frameworks-and-youre-still-building",
+    "category": "product-launch",
+    "tags": [
+      "how .* built",
+      "product",
+      "growth"
+    ],
+    "description": "The uncomfortable gap between your RICE scores and who actually decides what ships",
+    "datePublished": "2026-04-23",
+    "source": "Product Coalition",
+    "format": "article",
+    "company": "Various",
+    "createdAt": "2026-07-23T11:08:58.399Z",
+    "access": "free"
   }
 ]
